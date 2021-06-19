@@ -1,4 +1,5 @@
-# entitylinq
+# Entity Linq
+
 This repository is the official issue tracker for https://entitylinq.com/
 
 When filing an issue, please provide as many details as you can.

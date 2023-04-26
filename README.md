@@ -13,3 +13,7 @@ Lastly, thank you for taking the time to report problems, suggestions and featur
 Setup [instructions](https://github.com/streamx-co/try.elinq/blob/master/Setup.md)
 
 [Sample projects](https://github.com/streamx-co/try.elinq/blob/master/RunLocally.md)
+
+## Source Code
+
+https://github.com/kostat/XLinq. The repository contains both, the MSIL to Expression Tree converter and the Entity Linq library.
